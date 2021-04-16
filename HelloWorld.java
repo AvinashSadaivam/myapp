@@ -8,7 +8,8 @@ public class HelloWorld {
 
 
 
-   System.out.println("**happy monday");
+
+   System.out.println("**hapPy friday);
     }
 
 }
